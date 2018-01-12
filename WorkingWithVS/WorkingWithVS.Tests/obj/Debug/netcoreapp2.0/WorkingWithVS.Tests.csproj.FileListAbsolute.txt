@@ -1,0 +1,16 @@
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.Tests.deps.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.Tests.runtimeconfig.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.Tests.runtimeconfig.dev.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.Tests.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.Tests.pdb
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.AssemblyInfoInputs.cache
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.AssemblyInfo.cs
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\obj\Debug\netcoreapp2.0\WorkingWithVS.Tests.pdb
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS.Tests\bin\Debug\netcoreapp2.0\WorkingWithVS.pdb

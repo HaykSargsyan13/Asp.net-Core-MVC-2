@@ -1,0 +1,11 @@
+D:\Asp.Net Core\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.deps.json
+D:\Asp.Net Core\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.json
+D:\Asp.Net Core\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.runtimeconfig.dev.json
+D:\Asp.Net Core\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.dll
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfoInputs.cache
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.AssemblyInfo.cs
+D:\Asp.Net Core\Razor\Razor\bin\Debug\netcoreapp2.0\Razor.pdb
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.dll
+D:\Asp.Net Core\Razor\Razor\obj\Debug\netcoreapp2.0\Razor.pdb

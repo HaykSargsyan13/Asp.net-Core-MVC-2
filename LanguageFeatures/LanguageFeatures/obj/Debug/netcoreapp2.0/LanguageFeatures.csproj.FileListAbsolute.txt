@@ -1,0 +1,11 @@
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.deps.json
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.json
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.runtimeconfig.dev.json
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.dll
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfoInputs.cache
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.AssemblyInfo.cs
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\bin\Debug\netcoreapp2.0\LanguageFeatures.pdb
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.dll
+D:\Asp.Net Core\LanguageFeatures\LanguageFeatures\obj\Debug\netcoreapp2.0\LanguageFeatures.pdb

@@ -1,0 +1,11 @@
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\bin\Debug\netcoreapp2.0\WorkingWithVS.deps.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\bin\Debug\netcoreapp2.0\WorkingWithVS.runtimeconfig.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\bin\Debug\netcoreapp2.0\WorkingWithVS.runtimeconfig.dev.json
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\bin\Debug\netcoreapp2.0\WorkingWithVS.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\bin\Debug\netcoreapp2.0\WorkingWithVS.pdb
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.AssemblyInfoInputs.cache
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.AssemblyInfo.cs
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.dll
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.pdb
+D:\Asp.Net Core\WorkingWithVS\WorkingWithVS\obj\Debug\netcoreapp2.0\WorkingWithVS.csprojResolveAssemblyReference.cache
