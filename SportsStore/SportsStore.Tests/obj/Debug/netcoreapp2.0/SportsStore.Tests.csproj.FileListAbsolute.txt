@@ -1,0 +1,32 @@
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfoInputs.cache
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.AssemblyInfo.cs
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.deps.json
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.json
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.runtimeconfig.dev.json
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.Tests.pdb
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\SportsStore\SportsStore.Tests\bin\Debug\netcoreapp2.0\SportsStore.pdb

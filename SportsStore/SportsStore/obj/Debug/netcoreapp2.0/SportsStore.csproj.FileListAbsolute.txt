@@ -1,0 +1,22 @@
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\pro-asp.net-core-mvc-2-master\pro-asp.net-core-mvc-2-master\08 - SportsStore\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Asp.Net Core\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Asp.Net Core\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Asp.Net Core\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Asp.Net Core\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Asp.Net Core\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
