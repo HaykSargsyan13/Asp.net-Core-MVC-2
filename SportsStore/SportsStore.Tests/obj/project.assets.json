@@ -14196,11 +14196,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Asp.Net Core\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "D:\\Asp.Net Core\\Asp.Net Core 2\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "D:\\Asp.Net Core\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
+      "projectPath": "D:\\Asp.Net Core\\Asp.Net Core 2\\SportsStore\\SportsStore.Tests\\SportsStore.Tests.csproj",
       "packagesPath": "C:\\Users\\Hayk\\.nuget\\packages\\",
-      "outputPath": "D:\\Asp.Net Core\\SportsStore\\SportsStore.Tests\\obj\\",
+      "outputPath": "D:\\Asp.Net Core\\Asp.Net Core 2\\SportsStore\\SportsStore.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -14222,8 +14222,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Asp.Net Core\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "D:\\Asp.Net Core\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "D:\\Asp.Net Core\\Asp.Net Core 2\\SportsStore\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "D:\\Asp.Net Core\\Asp.Net Core 2\\SportsStore\\SportsStore\\SportsStore.csproj"
             }
           }
         }
